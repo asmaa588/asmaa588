@@ -51,32 +51,49 @@ Exploitation & Privilege Escalation – Identifying attack vectors and executing
 
 Payload Development & Evasion – Creating custom payloads to bypass security controls.
 
+
 🏗️ System & Network Security:
+
 System Hardening – Enforcing security policies, SELinux configurations, and securing system permissions.
+
 Firewall Configuration – Managing iptables, firewalld, and network ACLs for traffic control.
+
 IDS/IPS Implementation – Deploying Snort, Suricata.
+
 
 🔑 Cryptography:
 
 SSL/TLS & OpenSSL – Configuring secure communications.
+
 Public Key Infrastructure (PKI) – Managing encryption keys and certificates.
+
 Cryptanalysis – Evaluating cryptographic implementations for weaknesses.
+
 
 🔍 Secure SDLC:
 
 Static & Dynamic Code Analysis – Utilizing SAST/DAST tools to detect security vulnerabilities in development.
+
 Secure Development Practices – Implementing OWASP and secure coding guidelines.
+
 
 📡 ROS:
 
 ROS (Robot Operating System).
+
 Autonomous Systems Development.
+
 Real-Time Sensor Data Processing.
+
 System Integration (Hardware & Software Communication).
+
 Robotics Fundamentals.
+
 Embedded Systems Basics.
 
+
 🤖 CAD Design:
+
 (Basic Level) – AutoCAD / SolidWorks fundamentals
 
 ________________________________________________________________________________________________________________________________________________
@@ -84,18 +101,26 @@ ________________________________________________________________________________
 ________________________________________________________________________________________________________________________________________________
 
 🕵️‍♂️ Analytical & Critical Thinking – Solving complex security challenges.
+
 🤝 Collaboration & Conflict Resolution – Effectively working with security teams.
+
 ⚡ High Adaptability & Resilience – Staying ahead in the dynamic cybersecurity landscape.
+
 🔍 Strong Attention to Detail – Identifying subtle security flaws.
+
 🎤 Public Speaking – Communicating security threats clearly.
+
 🧠 Emotional Intelligence – Understanding human factors in security.
 ________________________________________________________________________________________________________________________________________________
 📖 Current Learning & Research
 ________________________________________________________________________________________________________________________________________________
 
 🕵️‍♂️ Advanced Penetration Testing – Deep-dive into red teaming methodologies.
+
 🤖 AI for Cybersecurity – Exploring machine learning applications in security.
+
 💻 Web Application Security & Exploitation – Mastering OWASP Top 10 vulnerabilities.
+
 🔥 Red Team vs. Blue Team Strategies – Strengthening offensive and defensive techniques.
 
 ________________________________________________________________________________________________________________________________________________
@@ -103,4 +128,5 @@ ________________________________________________________________________________
 🎯 Let’s Connect
 ________________________________________________________________________________________________________________________________________________
 📧 Email: asmaasalh4342@gmail.com
+
 🔗 LinkedIn: https://www.linkedin.com/in/asmaa-salah-6144a32a4/
