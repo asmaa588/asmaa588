@@ -11,7 +11,7 @@ ________________________________________________________________________________
 🔹Continuously developing expertise in cybersecurity through practical experience, certifications, and self-driven learning.
 ________________________________________________________________________________________________________________________________________________
 
-⚔️ Area of Expertise
+⚔️ **Area of Expertise**
 ________________________________________________________________________________________________________________________________________________
 
 🟣 Purple Teaming (Blue Team Operations) – Implementing offensive and defensive security measures, running adversary simulations, and enhancing organizational security resilience.
