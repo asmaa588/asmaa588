@@ -1,8 +1,8 @@
-**👾 Asmaa Salah Elsayed | Cyber Security Engineer 
-**________________________________________________________________________________________________________________________________________________
+👾 **Asmaa Salah Elsayed | Cyber Security Engineer**
+________________________________________________________________________________________________________________________________________________
 
-**🔐 Ethical Hacker | Penetration Tester | Bug Bounty Hunter | Cybersecurity Enthusiast
-**________________________________________________________________________________________________________________________________________________
+🔐**Ethical Hacker | Penetration Tester | Bug Bounty Hunter | Cybersecurity Enthusiast**
+________________________________________________________________________________________________________________________________________________
 
 🔹 Penetration Tester and Bug Bounty Hunter with hands-on experience in identifying, exploiting, and responsibly reporting security vulnerabilities in web applications and APIs.
 
@@ -27,11 +27,11 @@ ________________________________________________________________________________
 🛡️ Threat Detection & Intelligence – Leveraging OSINT and AI-based analytics for proactive threat hunting.
 
 ________________________________________________________________________________________________________________________________________________
-**🛠️ Technical Skills
-**________________________________________________________________________________________________________________________________________________
+🛠️ **Technical Skills**
+________________________________________________________________________________________________________________________________________________
 
-**💻 Programming Languages:
-**
+💻 **Programming Languages:**
+
 🔹Python  – Scripting automation, exploit development, and security tool development.
 
 🔹C++ – Reverse engineering, memory manipulation, and low-level security research.
@@ -40,13 +40,13 @@ ________________________________________________________________________________
 
 
 
-**🖥️ Virtualization:
-**
+🖥️ **Virtualization**:
+
 🔹VMware Workstation | VirtualBox | HyperV – Setting up test environments and isolated security labs for research.
 
 
-**🏴‍☠️ Penetration Testing:
-**
+🏴‍☠️ **Penetration Testing:**
+
 🔹Vulnerability Scanning – Using tools like Nessus, OpenVAS, and Burp Suite for security assessments.
 
 🔹Exploitation & Privilege Escalation – Identifying attack vectors and executing controlled exploits.
@@ -55,8 +55,8 @@ ________________________________________________________________________________
 
 
 
-**🏗️ System & Network Security:
-**
+🏗️ **System & Network Security:**
+
 🔹System Hardening – Enforcing security policies, SELinux configurations, and securing system permissions.
 
 🔹Firewall Configuration – Managing iptables, firewalld, and network ACLs for traffic control.
@@ -65,8 +65,8 @@ ________________________________________________________________________________
 
 
 
-**🔑 Cryptography:
-**
+🔑 **Cryptography:**
+
 🔹SSL/TLS & OpenSSL – Configuring secure communications.
 
 🔹Public Key Infrastructure (PKI) – Managing encryption keys and certificates.
@@ -75,16 +75,16 @@ ________________________________________________________________________________
 
 
 
-**🔍 Secure SDLC:
-**
+🔍 **Secure SDLC:**
+
 🔹Static & Dynamic Code Analysis – Utilizing SAST/DAST tools to detect security vulnerabilities in development.
 
 🔹Secure Development Practices – Implementing OWASP and secure coding guidelines.
 
 
 
-**📡 ROS:
-**
+📡 **ROS:**
+
 🔹ROS (Robot Operating System).
 
 🔹Autonomous Systems Development.
@@ -99,13 +99,13 @@ ________________________________________________________________________________
 
 
 
-**🤖 CAD Design:
-**
+🤖 **CAD Design:**
+
 🔹Basic Level – AutoCAD / SolidWorks fundamentals
 
 ________________________________________________________________________________________________________________________________________________
-**🧠 Personal Skills
-**________________________________________________________________________________________________________________________________________________
+🧠 **Personal Skills**
+________________________________________________________________________________________________________________________________________________
 
 🕵️‍♂️ Analytical & Critical Thinking – Solving complex security challenges.
 
@@ -119,8 +119,8 @@ ________________________________________________________________________________
 
 🧠 Emotional Intelligence – Understanding human factors in security.
 ________________________________________________________________________________________________________________________________________________
-**📖 Current Learning & Research
-**________________________________________________________________________________________________________________________________________________
+📖 **Current Learning & Research**
+_______________________________________________________________________________________________________________________________________________
 
 🕵️‍♂️ Advanced Penetration Testing – Deep-dive into red teaming methodologies.
 
@@ -132,8 +132,8 @@ ________________________________________________________________________________
 
 ________________________________________________________________________________________________________________________________________________
 
-**🎯 Let’s Connect
-**________________________________________________________________________________________________________________________________________________
+🎯 **Let’s Connect**
+________________________________________________________________________________________________________________________________________________
 📧 Email: asmaasalh4342@gmail.com
 
 🔗 LinkedIn: https://www.linkedin.com/in/asmaa-salah-6144a32a4/
