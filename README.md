@@ -15,11 +15,17 @@ ________________________________________________________________________________
 ________________________________________________________________________________________________________________________________________________
 
 🟣 Purple Teaming (Blue Team Operations) – Implementing offensive and defensive security measures, running adversary simulations, and enhancing organizational security resilience.
+
 🎯 Vulnerability Assessment – Identifying security flaws in applications, networks, and systems, prioritizing risks for remediation.
+
 🚨 Incident Response & Digital Forensics – Investigating security incidents, containing threats, and analyzing attack footprints to improve defense strategies.
+
 🏗️ System Administration & OS Security – Hardening Linux-based environments, managing configurations, and securing OS kernels.
+
 🔐 Cryptography & Secure Communications – Implementing encryption standards, PKI management, and cryptanalysis.
+
 🛡️ Threat Detection & Intelligence – Leveraging OSINT and AI-based analytics for proactive threat hunting.
+
 ________________________________________________________________________________________________________________________________________________
 🛠️ Technical Skills
 ________________________________________________________________________________________________________________________________________________
@@ -27,8 +33,11 @@ ________________________________________________________________________________
 💻 Programming Languages:
 
 Python  – Scripting automation, exploit development, and security tool development.
+
 C++ – Reverse engineering, memory manipulation, and low-level security research.
+
 JavaScript – Web security, penetration testing, and payload development.
+
 
 🖥️ Virtualization:
 
@@ -37,7 +46,9 @@ VMware Workstation | VirtualBox | HyperV – Setting up test environments and is
 🏴‍☠️ Penetration Testing:
 
 Vulnerability Scanning – Using tools like Nessus, OpenVAS, and Burp Suite for security assessments.
+
 Exploitation & Privilege Escalation – Identifying attack vectors and executing controlled exploits.
+
 Payload Development & Evasion – Creating custom payloads to bypass security controls.
 
 🏗️ System & Network Security:
