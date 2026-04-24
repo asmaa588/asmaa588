@@ -37,11 +37,12 @@ Python  – Scripting automation, exploit development, and security tool develop
 C++ – Reverse engineering, memory manipulation, and low-level security research.
 
 JavaScript – Web security, penetration testing, and payload development.
-
+______
 
 🖥️ Virtualization:
 
 VMware Workstation | VirtualBox | HyperV – Setting up test environments and isolated security labs for research.
+______
 
 🏴‍☠️ Penetration Testing:
 
@@ -51,6 +52,7 @@ Exploitation & Privilege Escalation – Identifying attack vectors and executing
 
 Payload Development & Evasion – Creating custom payloads to bypass security controls.
 
+______
 
 🏗️ System & Network Security:
 
@@ -60,6 +62,7 @@ Firewall Configuration – Managing iptables, firewalld, and network ACLs for tr
 
 IDS/IPS Implementation – Deploying Snort, Suricata.
 
+______
 
 🔑 Cryptography:
 
@@ -69,6 +72,7 @@ Public Key Infrastructure (PKI) – Managing encryption keys and certificates.
 
 Cryptanalysis – Evaluating cryptographic implementations for weaknesses.
 
+______
 
 🔍 Secure SDLC:
 
@@ -76,6 +80,7 @@ Static & Dynamic Code Analysis – Utilizing SAST/DAST tools to detect security 
 
 Secure Development Practices – Implementing OWASP and secure coding guidelines.
 
+______
 
 📡 ROS:
 
@@ -91,6 +96,7 @@ Robotics Fundamentals.
 
 Embedded Systems Basics.
 
+______
 
 🤖 CAD Design:
 
