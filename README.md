@@ -32,76 +32,76 @@ ________________________________________________________________________________
 
 💻 Programming Languages:
 
-Python  – Scripting automation, exploit development, and security tool development.
+🔹Python  – Scripting automation, exploit development, and security tool development.
 
-C++ – Reverse engineering, memory manipulation, and low-level security research.
+🔹C++ – Reverse engineering, memory manipulation, and low-level security research.
 
-JavaScript – Web security, penetration testing, and payload development.
+🔹JavaScript – Web security, penetration testing, and payload development.
 
-----
+
 
 🖥️ Virtualization:
 
-VMware Workstation | VirtualBox | HyperV – Setting up test environments and isolated security labs for research.
-______
+🔹VMware Workstation | VirtualBox | HyperV – Setting up test environments and isolated security labs for research.
+
 
 🏴‍☠️ Penetration Testing:
 
-Vulnerability Scanning – Using tools like Nessus, OpenVAS, and Burp Suite for security assessments.
+🔹Vulnerability Scanning – Using tools like Nessus, OpenVAS, and Burp Suite for security assessments.
 
-Exploitation & Privilege Escalation – Identifying attack vectors and executing controlled exploits.
+🔹Exploitation & Privilege Escalation – Identifying attack vectors and executing controlled exploits.
 
-Payload Development & Evasion – Creating custom payloads to bypass security controls.
+🔹Payload Development & Evasion – Creating custom payloads to bypass security controls.
 
-______
+
 
 🏗️ System & Network Security:
 
-System Hardening – Enforcing security policies, SELinux configurations, and securing system permissions.
+🔹System Hardening – Enforcing security policies, SELinux configurations, and securing system permissions.
 
-Firewall Configuration – Managing iptables, firewalld, and network ACLs for traffic control.
+🔹Firewall Configuration – Managing iptables, firewalld, and network ACLs for traffic control.
 
-IDS/IPS Implementation – Deploying Snort, Suricata.
+🔹IDS/IPS Implementation – Deploying Snort, Suricata.
 
-______
+
 
 🔑 Cryptography:
 
-SSL/TLS & OpenSSL – Configuring secure communications.
+🔹SSL/TLS & OpenSSL – Configuring secure communications.
 
-Public Key Infrastructure (PKI) – Managing encryption keys and certificates.
+🔹Public Key Infrastructure (PKI) – Managing encryption keys and certificates.
 
-Cryptanalysis – Evaluating cryptographic implementations for weaknesses.
+🔹Cryptanalysis – Evaluating cryptographic implementations for weaknesses.
 
-______
+
 
 🔍 Secure SDLC:
 
-Static & Dynamic Code Analysis – Utilizing SAST/DAST tools to detect security vulnerabilities in development.
+🔹Static & Dynamic Code Analysis – Utilizing SAST/DAST tools to detect security vulnerabilities in development.
 
-Secure Development Practices – Implementing OWASP and secure coding guidelines.
+🔹Secure Development Practices – Implementing OWASP and secure coding guidelines.
 
-______
+
 
 📡 ROS:
 
-ROS (Robot Operating System).
+🔹ROS (Robot Operating System).
 
-Autonomous Systems Development.
+🔹Autonomous Systems Development.
 
-Real-Time Sensor Data Processing.
+🔹Real-Time Sensor Data Processing.
 
-System Integration (Hardware & Software Communication).
+🔹System Integration (Hardware & Software Communication).
 
-Robotics Fundamentals.
+🔹Robotics Fundamentals.
 
-Embedded Systems Basics.
+🔹Embedded Systems Basics.
 
-______
+
 
 🤖 CAD Design:
 
-(Basic Level) – AutoCAD / SolidWorks fundamentals
+🔹Basic Level – AutoCAD / SolidWorks fundamentals
 
 ________________________________________________________________________________________________________________________________________________
 🧠 Personal Skills
