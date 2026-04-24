@@ -37,7 +37,8 @@ Python  – Scripting automation, exploit development, and security tool develop
 C++ – Reverse engineering, memory manipulation, and low-level security research.
 
 JavaScript – Web security, penetration testing, and payload development.
-______
+
+----
 
 🖥️ Virtualization:
 
