@@ -5,7 +5,9 @@ ________________________________________________________________________________
 ________________________________________________________________________________________________________________________________________________
 
 🔹 Penetration Tester and Bug Bounty Hunter with hands-on experience in identifying, exploiting, and responsibly reporting security vulnerabilities in web applications and APIs.
+
 🔹Passionate about vulnerability research, real-world attack simulation, and improving system security posture. Adept at manual testing, security analysis, and writing clear, actionable vulnerability reports.
+
 🔹Continuously developing expertise in cybersecurity through practical experience, certifications, and self-driven learning.
 ________________________________________________________________________________________________________________________________________________
 
